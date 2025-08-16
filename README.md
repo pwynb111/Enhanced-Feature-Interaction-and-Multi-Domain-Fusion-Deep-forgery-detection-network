@@ -24,8 +24,9 @@ The pre-trained model of EFMID-Net will be made publicly available in this repos
 
 Our model achieved the following performance on:
 
-| Training Data | Backbone        | FF++       | Celeb-DFv1   | Celeb-DFv2       | | ------------- | --------------- | ---------- | ---------- | ---------- |
-| FF++          | Xception       | 0.998     | 0.938     | 0.995     |
+| Training Data | Backbone        | FF++       | Celeb-DFv1   | Celeb-DFv2       | 
+| ------------- | --------------- | ---------- | ----------   | ---------- |
+| FF++          | Xception        | 0.998      | 0.938        | 0.995     |
 Note: the metric is *frame-level AUC*.
 ## Training
 
