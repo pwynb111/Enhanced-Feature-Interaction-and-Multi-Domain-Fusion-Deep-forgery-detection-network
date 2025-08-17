@@ -1,4 +1,4 @@
-# EFMID-Net Enhanced Feature Interaction and Multi-Domain Fusion Deep forgery detection network
+# EFIMD-Net Enhanced Feature Interaction and Multi-Domain Fusion Deep forgery detection network
 
 ## Approach
 
